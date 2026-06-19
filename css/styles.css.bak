@@ -104,7 +104,6 @@ a{color:inherit}
 .card__title{font-family:var(--display);font-weight:700;font-size:1.5rem;letter-spacing:-.03em;margin:.5rem 0 .6rem}
 .card__text{color:var(--muted);line-height:1.6;margin:0 0 1rem}
 .card__link{font-weight:800;color:#fff;text-decoration:underline;text-decoration-color:var(--red);text-underline-offset:.35rem}
-.card__time{display:inline-block;font-size:.78rem;font-weight:700;color:var(--red);letter-spacing:.04em;margin-bottom:.6rem}
 
 /* ---------- Casos de uso ---------- */
 .uses{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem}
@@ -149,9 +148,6 @@ a{color:inherit}
 .backer img{width:48px;height:48px;border-radius:50%;object-fit:cover;border:1px solid rgba(255,255,255,.15)}
 .backer strong{display:block;font-size:.98rem}
 .backer span{color:var(--muted);font-size:.82rem}
-.backer--featured img{width:64px;height:64px;border:2px solid var(--red);box-shadow:0 0 24px rgba(232,0,29,.35)}
-.backer--featured strong{font-size:1.08rem}
-.backer__quote{color:#cfcfd4;font-size:.86rem;font-style:italic;margin:.35rem 0 0;max-width:38ch;line-height:1.5}
 
 /* ---------- Ubicaciones ---------- */
 .loc-btns{display:flex;gap:.55rem;flex-wrap:wrap;margin-bottom:1rem}

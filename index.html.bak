@@ -43,7 +43,7 @@
       </div>
       <div class="stats">
         <div><div class="stat__n">+500</div><div class="stat__l">autos transformados</div></div>
-        <div><div class="stat__n">48 hrs</div><div class="stat__l">Wrap listo · PPF en 72 hrs</div></div>
+        <div><div class="stat__n">48 hrs</div><div class="stat__l">y tu auto está listo</div></div>
         <div><div class="stat__n">5.0 ★</div><div class="stat__l">calificación en Google</div></div>
       </div>
     </div>
@@ -84,20 +84,18 @@
         <span class="card__kicker">Wraps</span>
         <h3 class="card__title">Cambia el look completo</h3>
         <p class="card__text">Negro mate, satinado, brillante o color a la medida. Un cambio radical sin tocar la pintura de fábrica y 100% reversible.</p>
-        <span class="card__time">⏱ Listo en 48 hrs</span>
         <a class="card__link" href="#agenda">Quiero un wrap →</a>
       </div>
     </article>
 
     <article class="card">
       <div class="card__media">
-        <img src="assets/aplicación PPF.jpg" alt="Auto con aplicación de PPF">
+        <img src="assets/aplicaci%C3%B3n%20PPF.jpg" alt="Auto con aplicación de PPF">
       </div>
       <div class="card__body">
         <span class="card__kicker">PPF</span>
         <h3 class="card__title">Protege lo que más cuidas</h3>
         <p class="card__text">Película de protección transparente o con color. Blindaje real contra rayones, piedras y el sol de la ciudad, sin perder el brillo.</p>
-        <span class="card__time">⏱ Listo en 72 hrs</span>
         <a class="card__link" href="#agenda">Quiero PPF →</a>
       </div>
     </article>
@@ -194,13 +192,9 @@
     <div class="container">
       <div class="backers">
         <span class="backers__label">Respaldados por</span>
-        <div class="backer backer--featured">
+        <div class="backer">
           <img src="https://stampida.app/wp-content/uploads/2022/10/3-768x768.jpg" alt="Marcus Dantus" loading="lazy">
-          <div>
-            <strong>Marcus Dantus</strong>
-            <span>Inversionista · Shark Tank México</span>
-            <p class="backer__quote">"Un modelo que escala y resultados que hablan solos."</p>
-          </div>
+          <div><strong>Marcus Dantus</strong><span>Inversionista · Shark Tank México</span></div>
         </div>
         <div class="backer">
           <img src="https://stampida.app/wp-content/uploads/2022/10/2-1.jpg" alt="Arody" loading="lazy">
@@ -241,7 +235,7 @@
       </details>
       <details class="faq__item">
         <summary class="faq__q">¿En cuánto tiempo queda mi auto?<span class="faq__plus">+</span></summary>
-        <p class="faq__a">Depende del servicio: los wraps quedan listos en <strong>48 horas</strong> y los proyectos de PPF en <strong>72 horas</strong>. Al confirmar tu cita te damos la fecha exacta de entrega para que planees sin sorpresas.</p>
+        <p class="faq__a">La mayoría de los proyectos quedan listos en 48 horas. Al confirmar tu cita te damos una fecha exacta de entrega.</p>
       </details>
       <details class="faq__item">
         <summary class="faq__q">¿El wrap daña la pintura original?<span class="faq__plus">+</span></summary>
